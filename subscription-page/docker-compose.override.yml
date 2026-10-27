@@ -1,0 +1,4 @@
+services:
+  remnawave-subscription-page:
+    volumes:
+      - ./overrides/index.html:/opt/app/frontend/index.html:ro
